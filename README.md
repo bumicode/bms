@@ -1,2 +1,5 @@
-# bumasys-wiki
-Bumicode Management System Wiki
+# Bumicode Management System Wiki
+
+# Features
+- [x] Multi-Tenant
+- [x] Modular
