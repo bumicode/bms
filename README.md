@@ -1,19 +1,10 @@
-# BUMASYS
+# [WIP] BUMASYS
 ## Features
-- [x] Multi-Tenant
-- [x] Modular
-   - [ ] CRM
-      - [ ] Omnichannel
-         - [ ] WhatsApp
-         - [ ] Telegram
-   - [ ] Inventory Management
    - [ ] Sales and Distribution
-   - [ ] Asset Management
+   - [ ] Inventory Management
    - [ ] Purchasing Management
    - [ ] Import and Export Management
-   - [ ] Publishing Management
-- [x] Dynamic Role and Permission 
-- [x] Live Chat
+- [ ] Dynamic Role and Permission 
 
 ## Getting Started
 
